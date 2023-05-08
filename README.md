@@ -11,6 +11,10 @@ This project demonstrates building a data pipeline for processing earthquake dat
 
 ![Architecture Diagram](insert_image_link_here)
 
+## MAGE AI Data Pipeline : 
+![image](https://user-images.githubusercontent.com/46419407/236880606-898b9a56-f064-4f82-8042-810593b6fc75.png)
+
+
 ## Project Steps:
 
 1. Creating a Google Cloud Storage bucket and update the `config.yml` on MAGE AI file with the bucket name and credentials.
@@ -58,7 +62,7 @@ The data is modeled using a Star Schema with the following fact and dimension ta
   - latitude_id
   - place
   - location_source 
-  
+
 ## Conclusion
 
 We created a ETL Pipeline with our ETL code on MAGE AI and used Google Compute Instance to run MAGE AI . Loaded the transformed data to Google Big Query and Made Dashboard on 
