@@ -14,6 +14,11 @@ This project demonstrates building a data pipeline for processing earthquake dat
 ## MAGE AI Data Pipeline : 
 ![image](https://user-images.githubusercontent.com/46419407/236880606-898b9a56-f064-4f82-8042-810593b6fc75.png)
 
+## Dashboard can be found here : 
+https://lookerstudio.google.com/reporting/63fa702f-a50f-4deb-bc4b-df938d470de0
+
+![image](https://github.com/rushikesh6548/Earthquake-Data-ETL-End-to-End/assets/46419407/08de62da-8dc4-4c12-baea-b5ef6fd3fa04)
+
 
 ## Project Steps:
 
