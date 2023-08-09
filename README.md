@@ -68,6 +68,11 @@ The data is modeled using a Star Schema with the following fact and dimension ta
   - place
   - location_source 
 
+## Building Dashboard on Tableau Desktop : 
+1. Data transformation - Denormalizing
+   ![image](https://github.com/rushikesh6548/Earthquake-Data-ETL-End-to-End/assets/46419407/ed7adaea-66bf-44f4-a1ee-9634df8623cf)
+
+
 ## Conclusion
 
 We created a ETL Pipeline with our ETL code on MAGE AI and used Google Compute Instance to run MAGE AI . Loaded the transformed data to Google Big Query and Made Dashboard on 
